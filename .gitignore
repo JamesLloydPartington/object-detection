@@ -138,6 +138,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# tflite models
+*.tflite
+
 # mypy
 .mypy_cache/
 .dmypy.json
